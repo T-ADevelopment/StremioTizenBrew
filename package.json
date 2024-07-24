@@ -3,7 +3,7 @@
     "appName": "Stremio",
     "version": "Alpha 1.0",
     "description": "Stremio addon simply allows you to access stremio on unsupported Samsung (Tizen) TVs.",
-    "packageType": "mods",
+    "packageType": "app",
     "websiteURL": "https://web.stremio.com/",
     "author": "T-A Development",
     "keys": ["MediaPlayPause"],
